@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+work/
+runs/
+eval_*/
+*.pth
+*.zip
+.ipynb_checkpoints/
+*.log
+
+*:Zone.Identifier

@@ -1,0 +1,10 @@
+rfdetr>=1.11
+supervision
+pycocotools
+scipy
+pillow
+numpy
+pandas
+matplotlib
+gdown
+ipykernel
